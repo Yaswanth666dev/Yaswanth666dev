@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Venkata Yaswanth Babu Gutlapalli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Web+Developer;MERN+Stack+Enthusiast;Open+to+New+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Web+Developer;Open+to+New+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>🚀 Web Developer | 💻 MERN Stack Enthusiast | 🤝 Open to Collaboration</b>
+  <b>🚀 Web Developer  🤝 Open to Collaboration</b>
 </p>
 
 ---
