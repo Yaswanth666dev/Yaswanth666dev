@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:venkatgutl@gmail.com"><img src="https://img.shields.io/badge/Email-venkatgutl@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/venkata-yaswanth-babugutlapall2aa437304" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Yaswanth666dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
