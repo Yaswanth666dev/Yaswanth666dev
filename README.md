@@ -96,16 +96,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatagut&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatagut&theme=tokyonight" width="47%" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for stopping by! Let's build something awesome together. 🚀</b><br />
-  📫 Feel free to reach out via LinkedIn or email.
-</p>
