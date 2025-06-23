@@ -22,9 +22,9 @@
 
 ### 🧑‍💻 Profile Summary
 
-✨ Passionate and detail-oriented **Web Developer** skilled in building dynamic, responsive, and accessible web applications using **ReactJS, Bootstrap, HTML, CSS, JavaScript**, and **MongoDB**.
+✨ Passionate and detail-oriented **Web Developer** skilled in building dynamic, responsive, and accessible web applications using **ReactJS, Bootstrap, HTML, CSS, JavaScript**.
 
-- 🔧 Strong foundation in frontend & backend web technologies
+- 🔧 Strong foundation in frontend web technologies
 - 💡 Fast learner, adaptable, and collaborative team player
 - 🌐 Experienced with REST APIs, version control, and deployment tools
 
