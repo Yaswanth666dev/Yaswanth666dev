@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:venkatgutl@gmail.com"><img src="https://img.shields.io/badge/Email-venkatgutl@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/venkata-yaswanth-babugutlapall2aa437304" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/venkata-yaswanth-babu-gutlapalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Yaswanth666dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ### 🧑‍💻 Profile Summary
 
-✨ Passionate and detail-oriented **Web Developer** skilled in building dynamic, responsive, and accessible web applications using **ReactJS, Bootstrap, HTML, CSS, JavaScript**.
-
-- 🔧 Strong foundation in frontend web technologies
-- 💡 Fast learner, adaptable, and collaborative team player
-- 🌐 Experienced with REST APIs, version control, and deployment tools
+✨ Enthusiastic and detail-oriented **Frontend Developer** with hands-on experience in **HTML, CSS, Bootstrap, JavaScript, and ReactJS**.  
+🔥 Passionate about creating responsive, user-friendly interfaces with clean and efficient code.  
+💡 Skilled in building **modern single-page applications** and collaborating in fast-paced environments.  
+⚙️ Experienced with Git for version control and deploying projects using **Netlify and Vercel**.  
+📈 Quick learner with strong design sense and commitment to continuous improvement.
 
 ---
 
@@ -41,16 +41,21 @@
 
 ### 💼 Projects
 
-#### 📱 WhatsApp Clone – Real-Time Chat App  
-**Tech Used:** ReactJS, NodeJS, ExpressJS, Socket.IO, JWT, Bootstrap  
-- Real-time chat app with authentication and secure messaging  
-- Responsive UI, built using ReactJS and Bootstrap  
-- **Live:** [Click here to try](https://chat-frontend-ashy.vercel.app/)
+#### 📱 WhatsApp Clone – Real-Time Chat Application  
+**Tech Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, ExpressJS, Socket.IO, JWT  
+- Developed a real-time messaging app using **ReactJS** and **Socket.IO**  
+- Implemented user authentication with **JWT** and secure password hashing using **bcrypt.js**  
+- Designed a responsive UI with Bootstrap  
+- Deployed via **Vercel (frontend)** and **Render (backend)**  
+- 🔗 [Live Project](https://chat-frontend-ashy.vercel.app/)
 
-#### 🌾 Smart Farming using IoT  
-- Monitored soil, moisture & humidity using sensors  
-- Reduced labor and maximized yield for farmers  
-- Achieved **98% accuracy** in predictions using smart IoT logic
+---
+
+#### 👨‍💼 HRMS – Human Resource Management System  
+**Tech Used:** HTML, CSS, Bootstrap, JavaScript, ReactJS, React Router, Context API  
+- Built a responsive frontend web app for employee data, attendance, leave, and payroll management  
+- Included role-based UI access for Admin, HR, and Employees  
+- 🔗 [Live Project](https://hrmsportal.vercel.app/)
 
 ---
 
@@ -62,13 +67,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 </p>
 
 ---
 
-### 🔧 Tools I Use
+### 🛠️ Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -79,20 +82,18 @@
 
 ---
 
-### 🤝 Soft Skills
+### 💼 Internship Experience
 
-- 🎨 Creativity  
-- 👂 Active Listening  
-- 🔄 Flexibility  
-- ⏳ Patience  
-- 🚀 Self-Motivation  
-- 🔧 Adaptability  
+- **React Intern – Pranathi Software Services**  
+📅 *May 2025 – August 2025*  
+  - Developed and maintained responsive UI components using **ReactJS**
+  - Collaborated with senior developers on new feature implementation and debugging
 
 ---
 
 ### 📜 Certification
 
-- 📘 **Frontend Development** – *Udemy*
+- 🏅 **Frontend Development** – *Udemy*
 
 ---
 
